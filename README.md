@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://github.com/YanimirSalazar/yanimirsalazar/assets/125751316/650c8f2c-9dd5-4243-9054-3b8fceb8dac5" width="800"/>
+  <img src="https://github.com/YanimirSalazar/yanimirsalazar/assets/125751316/650c8f2c-9dd5-4243-9054-3b8fceb8dac5" width="1000"/>
 </div>
 <div id="badges" align="center">
 <img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=noelianav91.noelianav91&color=00cf00" alt=""/>
