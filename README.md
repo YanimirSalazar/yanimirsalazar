@@ -7,7 +7,7 @@
   Hola soy Yanimir. ¡Encantada de conocerte!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-  ---
+
  <div id="header" align="left">
 
 ### :woman_technologist: Sobre mí :
@@ -20,8 +20,6 @@
 
 * ✍️ Puedes contactarte conmigo [![Linkedin Badge](https://img.shields.io/badge/-Yanimir-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yanimirsalazar/)
    
-   ---
-
 ### :hammer_and_wrench: Lenguajes y herramientas :
    <div id="header" align="left">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
