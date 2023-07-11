@@ -12,7 +12,7 @@
 
 ### :woman_technologist: Sobre mí :
    Comenzando mi transición laboral al Data Analytics <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-   * :computer: Actualmente estoy realizando el Bootcamp de Data Analyst en Practicum by Yandex :muscle:
+   * :computer: Graduada del Bootcamp de Data Analyst en TripleTen :muscle:
 
 * :seedling: Estoy estudiando y practicando :computer: lenguaje SQL y Python y la herramienta de visualización Tableau.
 
